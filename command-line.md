@@ -1,0 +1,27 @@
+# 使用的指令
+- npm init -y
+- npm install webpack webpack-cli --save-dev 
+- npm install react react-dom --save-dev
+- npm install webpack-merge
+- npm install html-webpack-plugin --save-dev
+- npm install clean-webpack-plugin --save-dev
+- npm install style-loader css-loader --save-dev
+- npm install webpack-dev-server --save-dev
+- npm install babel-preset-es2015 --save-dev
+- npm install babel-preset-react --save-dev
+- npm install babel-preset-stage-2 --save-dev
+- npm install babel-register --save-dev
+- npm install babel-cli --save-dev
+- npm install babel-loader --save-dev
+- npm install babel-core --save-dev
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
