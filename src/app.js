@@ -1,8 +1,7 @@
 import React from 'react';
 import Header from './views/layout/header';
 import Body from './views/layout/body';
-import Footer from './views/layout/footer';
-
+import './style/layout/common.css'
 
 class App extends React.Component {
   render() {
@@ -10,7 +9,6 @@ class App extends React.Component {
       <div>
         <Header />
         <Body />
-        <Footer />
       </div>)
   }
 }

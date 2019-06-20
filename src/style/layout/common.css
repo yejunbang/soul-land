@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgba(238, 162, 164, .5);
+}
+
+.layout {
+  max-width: 1000px;
+  margin: 0 auto;
+}

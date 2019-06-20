@@ -3,3 +3,4 @@
 没有使用脚手架的project，技术栈为
 React
 Webpack
+Babel
